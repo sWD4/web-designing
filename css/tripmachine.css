@@ -1,0 +1,278 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.banner{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/4_1ac54ec7-0e68-4953-923e-80239be824df_2048x.jpg?v=1634921902);
+	width: 100%;
+	height: 640px;
+	background-position: center;
+	background-size: cover;
+}
+.button1{
+	text-align: center;
+	margin-left: 275px;
+    margin-top: 279px;
+    font-size: 14px;
+	padding: 18px 24px;
+	background-color: #ffffff3b;
+	border: white;
+	color: white;
+}
+nav{
+	background: white;
+	width: 100%;
+	height: 50px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0px 149px;
+	
+}
+.menu a{
+	text-decoration: none;
+	font-size: 15px;
+	padding: 0px 6px;
+	color: #1a1919;
+	font-family: initial ;
+}
+.container1{
+	width: 100%;
+	height: auto;
+	padding: 10px;
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 21px;
+}
+.container1 div{
+	margin: -10px -124px;
+	margin-top: -6px;
+}
+.grips{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/1_85d62396-22fb-4c0e-9972-94cf6254c03c_2048x.png?v=1614366461);
+	width: 280px;
+	height: 280px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	line-height: 280px;
+	background-size: cover;
+	background-position: center;
+}
+.bagpacks{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/11_f87594f3-bd4c-46c2-9036-e1846173a87f_2048x.jpg?v=1614366660);
+	width: 280px;
+	height: 280px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	line-height: 280px;
+	background-size: cover;
+	background-position: center;
+}
+.tourpack{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/1_82e21564-aa48-4dab-99da-6ae82e35f91f_2048x.png?v=1620898597);
+	width: 280px;
+	height: 280px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	line-height: 280px;
+	background-size: cover;
+	background-position: center;
+
+}
+.facemask{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/3_a4725577-4d9f-48d0-821d-53743e979928_2048x.png?v=1620901405);
+	width: 280px;
+	height: 280px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	line-height: 280px;
+	background-size: cover;
+	background-position: center;
+
+}
+.belt{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/3_d65a36ed-55dc-4b1a-964c-89571aa8f836_2048x.png?v=1614366661);
+	width: 280px;
+	height: 280px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	line-height: 280px;
+	background-size: cover;
+	background-position: center;
+}
+.tankbag{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/2_687b6655-c6b1-47c8-9093-6daf49734561_2048x.png?v=1621229844);
+	width: 280px;
+	height: 280px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	padding-top: 123px;
+	background-size: cover;
+	background-position: center;
+}
+.lifestyle{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/4_649605ff-dfdf-4573-a6ee-9ee612f70067_2048x.png?v=1620898514);
+	width: 280px;
+	height: 280px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	padding-top: 123px;
+	background-size: cover;
+	background-position: center;
+}
+.headex{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/14_d6eea7c7-6439-41e9-bedd-8d03c51216dd_2048x.jpg?v=1614366660);
+	width: 280px;
+	height: 280px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	line-height: 280px;
+	background-size: cover;
+	background-position: center;
+}
+
+.handmade{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/Untitled_design-4_2048x.png?v=1621231091);
+	width: 100%;
+	height: 500px;
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	padding-top: 194px;
+	color: white;
+	margin-top: 40px;
+}
+.handmade h1{
+	font-size: 38px;
+}
+.handmade h3{
+	font-size: 26px;
+}
+.handmade a button{
+	font-size: 14px;
+	padding: 14px 24px;
+	background-color: #ffffff57;
+	border: none;
+	color: white;
+}
+.container2{
+	width: 100%;
+	height: auto;
+	padding: 0px;
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 20px;
+	margin-bottom: 35px;
+}
+.container2 div{
+     margin: -35px -174px;
+     margin-top: 20px;
+
+}
+.helmet{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/2_988db070-76e6-4947-9339-480bf3c6dfbe_2048x.jpg?v=1632377901);
+	width: 560px;
+	height: 560px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	line-height: 560px;
+	background-size: cover;
+	background-position: center;
+}
+.wallet{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/1_4eb9f0fe-ecf5-400a-bb59-da315bfbd483_2048x.jpg?v=1632377804);
+	width: 560px;
+	height: 560px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	line-height: 560px;
+	background-size: cover;
+	background-position: center;
+}
+.millitary{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/12_aac9c8bc-a51b-4b19-88e6-f0039cad3fd7_2048x.jpg?v=1614366660);
+	width: 560px;
+	height: 560px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	line-height: 560px;
+	background-size: cover;
+	background-position: center;
+}
+.tool{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/13_edbf1d05-ffac-4766-99ae-dd9fc9c73d1a_2048x.jpg?v=1614366660);
+	width: 560px;
+	height: 560px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	line-height: 560px;
+	background-size: cover;
+	background-position: center;
+}
+
+.email{
+	background: black;
+	width: 100%;
+	height: 304px;
+	text-align: center;
+	margin-top: 69px;
+}
+.email h1{
+	color: white;
+	margin-top: 37px;
+}
+.email h3{
+	color: white;
+}
+.email a button{
+	font-size: 14px;
+	padding: 12px 4px;
+	background-color: #ffffff94;
+	border: none;
+}
+.footer{
+	width: 100%;
+	height: 600px;
+	display: flex;
+	
+}
+.footer h3{
+	margin: 53px;
+	display: flex;
+	margin-left: 112px;
+}
+.footer p{
+	margin-left: 109px;
+	margin-top: -58px;
+}
+.footer h2{
+	margin: 53px;
+	font-size: 17px;
+	margin-left: 103px;
+}
+.social_icons{
+	font-size: 20px;
+	justify-content: space-between;
+	text-align: center;
+	margin-left: -405px;
+	margin-top: -178px;
+}
+.shopify{
+	text-align: center;
+	font-size: 13px;
+	margin-right: 74px;
+    margin-top: 44px;
+}

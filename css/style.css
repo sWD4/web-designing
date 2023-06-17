@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+body{
+	background: #eaeded;
+}
+.a{
+	border: 2px solid red;
+	width: 300px;
+	height: 500px;
+	float: left;
+	margin: 10px;
+}
+.h{
+	text-align: center;
+	background: blue;
+	color: white;
+}

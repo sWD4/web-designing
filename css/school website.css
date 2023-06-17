@@ -1,0 +1,57 @@
+{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+nav{
+	background: white;
+	width: 100%;
+	height: 70px;
+	display: flex;
+	align-items: center;
+	padding-top: 10px;
+}
+.logo{
+    margin-left: 213px;
+}
+.menu a{
+	
+	text-decoration: none;
+	margin-left: 34px;
+	color: black;
+	font-family:serif;
+}
+.box a button{
+	font-size: 14px;
+	margin-left: 35px;
+	color: black;
+	background: rgb(255 165 0);
+	border: none;
+	font-family: fantasy;
+    padding: 17px 47px
+
+}
+.slider{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.banner{
+	width: 100%;
+	height: 450px;
+	background: white;
+}
+.banner h1{
+	margin-left: 221px;
+    font-size: 54px;
+}
+.banner p{
+	margin-left: 228px;
+	font-size: 19px;
+}
+.photo img{
+	margin-right: 239px;
+}
+
+
+
